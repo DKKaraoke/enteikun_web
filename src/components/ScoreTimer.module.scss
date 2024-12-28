@@ -1,0 +1,13 @@
+.monospaced {
+  font-family: inherit;
+  font-feature-settings: "tnum", "lnum";
+  font-size: 0.95em;
+}
+
+.listItem:nth-child(even) {
+  background-color: #F7FAFC;
+}
+
+.listItem:nth-child(odd) {
+  background-color: #FFFFFF;
+}
